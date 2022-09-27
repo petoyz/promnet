@@ -11,7 +11,7 @@ header {
     margin-left: -50px;
   }
   
-  nav {
+nav {
     background-color: black;
     height: 50px;
     line-height: 50px;
@@ -22,7 +22,7 @@ header {
     padding: 0 auto;
   }
   
-  nav ul {
+nav ul {
     list-style: none;
   }
   
